@@ -1,2 +1,2 @@
-# VueCases
-present several projects developed by vue.js
+# Cart 
+购物车实例，非常基础的vue.js只是，但是可以覆盖开发过程中遇到的挺多问题，所以可以作为入门栗子进行学习哟~
